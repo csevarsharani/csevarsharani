@@ -163,9 +163,19 @@ A full-stack food delivery application that allows users to explore food items, 
 
 ## GitHub Statistics
 
+<h2 align="center"> GitHub Statistics</h2>
+
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=csevarsharani&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=csevarsharani&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img
+    height="180"
+    src="https://github-stats-extended.vercel.app/api?username=csevarsharani&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
+    alt="GitHub Statistics"
+  />
+  <img
+    height="180"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=csevarsharani&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Top Languages"
+  />
 </p>
 
 ##  GitHub Contribution Streak
