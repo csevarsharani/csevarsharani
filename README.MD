@@ -184,18 +184,6 @@ A full-stack food delivery application that allows users to explore food items, 
   <img src="https://streak-stats.demolab.com?user=csevarsharani&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
-##  Contribution Activity
-
-<h2 align="center">📈 Contribution Activity</h2>
-
-<p align="center">
-  <img
-    src="https://csevarsharani.vercel.app/graph?username=csevarsharani&theme=tokyo-night"
-    width="100%"
-    alt="GitHub Contribution Activity"
-  />
-</p>
----
 
 ##  Current Goals
 
