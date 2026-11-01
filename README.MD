@@ -25,7 +25,7 @@
 
 ##  About Me
 
-Hello! I'm **Varsha Rani**, a final-year Computer Science and Engineering student from **Begusarai, Bihar, India**.
+Hello! I'm **Varsha Rani**, a final-year Computer Science and Engineering student from ** India**.
 
 I'm passionate about Full Stack Web Development and enjoy transforming ideas into functional, user-friendly web applications.
 
@@ -210,7 +210,7 @@ I'm always interested in connecting with developers, learning new technologies, 
 </p>
 
 <p align="center">
-   Begusarai, Bihar, India
+   India
 </p>
 
 ---
