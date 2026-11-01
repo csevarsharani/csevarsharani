@@ -186,10 +186,15 @@ A full-stack food delivery application that allows users to explore food items, 
 
 ##  Contribution Activity
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=csevarsharani&theme=tokyo-night&hide_border=true" width="100%" alt="Contribution Graph"/>
-</p>
+<h2 align="center">📈 Contribution Activity</h2>
 
+<p align="center">
+  <img
+    src="https://csevarsharani.vercel.app/graph?username=csevarsharani&theme=tokyo-night"
+    width="100%"
+    alt="GitHub Contribution Activity"
+  />
+</p>
 ---
 
 ##  Current Goals
